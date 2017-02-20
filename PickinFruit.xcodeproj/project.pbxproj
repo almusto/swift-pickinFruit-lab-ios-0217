@@ -200,7 +200,7 @@
 				TargetAttributes = {
 					5D4704A21D3C6B31009B6ECC = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = KXY9EDFTF5;
+						DevelopmentTeam = 7X3B669663;
 						LastSwiftMigration = 0800;
 					};
 					5D4704B61D3C6B32009B6ECC = {
@@ -480,7 +480,7 @@
 			baseConfigurationReference = A968639FE8B0C4EAAFDDF73A /* Pods-PickinFruit.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KXY9EDFTF5;
+				DEVELOPMENT_TEAM = 7X3B669663;
 				INFOPLIST_FILE = PickinFruit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FlatironSchool.com.PickinFruit;
@@ -494,7 +494,7 @@
 			baseConfigurationReference = BFB1DD4E615D9FDA0A98F122 /* Pods-PickinFruit.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = KXY9EDFTF5;
+				DEVELOPMENT_TEAM = 7X3B669663;
 				INFOPLIST_FILE = PickinFruit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FlatironSchool.com.PickinFruit;
